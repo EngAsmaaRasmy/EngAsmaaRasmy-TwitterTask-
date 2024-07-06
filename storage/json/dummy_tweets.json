@@ -1,0 +1,54 @@
+{
+    "top_tweets": {
+        "statuses": [
+            {
+                "id": 1,
+                "text": "This is a top tweet",
+                "user": {
+                    "id": 1,
+                    "name": "User1",
+                    "screen_name": "user1",
+                    "followers_count": 1500
+                },
+                "created_at": "Wed Oct 10 20:19:24 +0000 2018"
+            },
+            {
+                "id": 2,
+                "text": "Another top tweet",
+                "user": {
+                    "id": 2,
+                    "name": "User2",
+                    "screen_name": "user2",
+                    "followers_count": 1200
+                },
+                "created_at": "Wed Oct 10 20:19:24 +0000 2018"
+            }
+        ]
+    },
+    "recent_tweets": {
+        "statuses": [
+            {
+                "id": 3,
+                "text": "This is a recent tweet",
+                "user": {
+                    "id": 3,
+                    "name": "User3",
+                    "screen_name": "user3",
+                    "followers_count": 800
+                },
+                "created_at": "Wed Oct 10 20:19:24 +0000 2018"
+            },
+            {
+                "id": 4,
+                "text": "Another recent tweet",
+                "user": {
+                    "id": 4,
+                    "name": "User4",
+                    "screen_name": "user4",
+                    "followers_count": 600
+                },
+                "created_at": "Wed Oct 10 20:19:24 +0000 2018"
+            }
+        ]
+    }
+}
